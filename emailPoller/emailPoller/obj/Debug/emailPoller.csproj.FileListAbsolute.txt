@@ -1,0 +1,11 @@
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\bin\Debug\emailPoller.exe.config
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\bin\Debug\emailPoller.exe
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\bin\Debug\emailPoller.pdb
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\bin\Debug\AE.Net.Mail.dll
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.csprojResolveAssemblyReference.cache
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.ProjectInstaller.resources
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.csproj.GenerateResource.Cache
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.csproj.CoreCompileInputs.cache
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.exe
+C:\Users\Michaeldc\Documents\Visual Studio 2017\projs\workProj\emailPoller\emailPoller\obj\Debug\emailPoller.pdb

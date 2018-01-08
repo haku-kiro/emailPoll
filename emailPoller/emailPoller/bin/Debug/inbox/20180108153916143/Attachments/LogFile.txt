@@ -1,0 +1,19 @@
+1/7/2018 8:56:48 PM: the get call value is equal to 1
+1/7/2018 8:56:48 PM: Reporting service started
+1/7/2018 10:12:26 PM: Reporting service has stopped
+1/7/2018 10:14:04 PM: the get call value is equal to 1
+1/7/2018 10:14:04 PM: Reporting service started
+1/7/2018 10:22:29 PM: Reporting service has stopped
+1/7/2018 10:23:03 PM: the get call value is equal to 1
+1/7/2018 10:23:03 PM: Reporting service started
+1/7/2018 10:25:53 PM: Reporting service has stopped
+1/7/2018 10:26:23 PM: the get call value is equal to 1
+1/7/2018 10:26:23 PM: Reporting service started
+1/7/2018 10:33:53 PM: Reporting service has stopped
+1/7/2018 10:34:43 PM: the get call value is equal to 1
+1/7/2018 10:34:43 PM: Reporting service started
+2018/01/08 10:10:19 AM: the get call value is equal to 1
+2018/01/08 10:10:19 AM: Reporting service started
+2018/01/08 10:21:57 AM: Reporting service has stopped
+2018/01/08 10:22:32 AM: the get call value is equal to 1
+2018/01/08 10:22:32 AM: Reporting service started
